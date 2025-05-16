@@ -13,10 +13,7 @@
            $n2 = isset ($_GET ["nota2"])? $_GET["nota2"]: 0;
            $m = ($n1+$n2)/2;
            echo "Suas notas fora $n1 e $n2.<br>"
-          if ($m < 5) {
-            $media = "reprovado";
-        } 
-        elseif ($m >= 5 && $m < 7) {
+        if ($m >= 5 && $m < 7) {
             $media = "está de recuperação";
         } 
         else {
