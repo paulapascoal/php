@@ -19,6 +19,10 @@
 
 
     ?>
+         <footer>
+        <p> &copy; CursoemVídeo </p>
+    </footer>
+    
     
 </body>
 </html>

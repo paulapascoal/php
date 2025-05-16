@@ -13,14 +13,17 @@
     </style>
 </head>
 <body>
-    <?php
-
-    $idade = 36;
-    $nome = "Gustavo";
-    echo "$nome tem $idade anos!";
-
-
-    ?>
+    <div>
+        <?php
+        $idade = 36;
+        $nome = "Gustavo";
+        echo "$nome tem $idade anos!";
+        ?>
+    </div>
+    <footer>
+        <p> &copy; CursoemVídeo </p>
+    </footer>
+    
     
 </body>
 </html>

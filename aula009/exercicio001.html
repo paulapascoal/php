@@ -3,24 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operadores 3</title>
+    <title>Exercicio 1 PHP</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <div>
-        <?php
-            $a = 3;
-            $b = &$a;
-            $b += 5;
-        
-            echo "A variável A vale $a ";
-            echo "<br> A variável B vale $b";
-            ?>
+        <form method="get" action="exercicio001.php">
+            Ano de Nascimento:
+            <input type="number" placeholder="4 dígitos" name="ano">
+            <input type="submit" value="Verificar">
+        </form>
     </div>
-           <footer>
+    <footer>
         <p> &copy; CursoemVídeo </p>
     </footer>
-    
+
 </body>
 </html>
