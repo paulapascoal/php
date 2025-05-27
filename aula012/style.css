@@ -1,0 +1,43 @@
+@charset 'UTF-8';
+
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 18pt Arial;
+
+}
+
+div{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+
+}
+
+fieldset{
+    font: normal 14pt Arial;
+}
+
+.botao{
+    background-color: rgba(13, 13, 65, 0.781);
+    color: whitesmoke;
+    
+}
+
+a{
+    text-decoration: none;
+ }
+
+
+
+
+
+
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+
+}

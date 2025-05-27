@@ -3,30 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exercicio 1</title>
+    <title>Exercicio 2</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
     <div>
         <?php
-        $c = 1;
+
+        $c = 10;
 
         do{
-            echo " $c " ;
-            $c+=2;
+            echo " $c ";
+            $c--;
 
-            
         }
-        while ($c <= 20);
-
-
-
+        while ($c >= 1);
 
         ?>
     </div>
-     <footer>
+         <footer>
         <p> &copy; CursoemVídeo </p>
     </footer>
+
+    
+    
 </body>
 </html>
