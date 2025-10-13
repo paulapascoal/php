@@ -18,6 +18,8 @@
 
             ?>
     </div>
-    
+     <footer>
+        <p>&copy; Curso em Vìdeo</p>
+    </footer>
 </body>
 </html>
