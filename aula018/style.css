@@ -32,7 +32,15 @@ a{
  }
 
 
-
+.table{
+    border: 2px solid #333;  
+    padding: 15px; 
+    background-color: #f4f4f4; 
+    margin: 20px 0; 
+    border-radius: 8px;  
+    font-family: monospace;  
+    white-space: pre-wrap; 
+}
 
 
 
