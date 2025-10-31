@@ -10,14 +10,14 @@ As pastas abaixo contêm os códigos desenvolvidos em cada aula, organizados de 
 
 | Aula | Link | Aula | Link |
 | :---: | :---: | :---: | :---: |
-| `aula04` | [Ver Código](./aula04/) | `aula12` | [Ver Código](./aula12/) |
-| `aula05` | [Ver Código](./aula05/) | `aula13` | [Ver Código](./aula13/) |
-| `aula06` | [Ver Código](./aula06/) | `aula14` | [Ver Código](./aula14/) |
-| `aula07` | [Ver Código](./aula07/) | `aula15` | [Ver Código](./aula15/) |
-| `aula08` | [Ver Código](./aula08/) | `aula16` | [Ver Código](./aula16/) |
-| `aula09` | [Ver Código](./aula09/) | `aula17` | [Ver Código](./aula17/) |
-| `aula10` | [Ver Código](./aula10/) | `aula18` | [Ver Código](./aula18/) |
-| `aula11` | [Ver Código](./aula11/) | `aula19` | [Ver Código](./aula19/) |
+| `aula04` | [Ver Código](./aula004/) | `aula12` | [Ver Código](./aula012/) |
+| `aula05` | [Ver Código](./aula005/) | `aula13` | [Ver Código](./aula013/) |
+| `aula06` | [Ver Código](./aula006/) | `aula14` | [Ver Código](./aula014/) |
+| `aula07` | [Ver Código](./aula007/) | `aula15` | [Ver Código](./aula015/) |
+| `aula08` | [Ver Código](./aula008/) | `aula16` | [Ver Código](./aula016/) |
+| `aula09` | [Ver Código](./aula009/) | `aula17` | [Ver Código](./aula017/) |
+| `aula10` | [Ver Código](./aula010/) | `aula18` | [Ver Código](./aula018/) |
+| `aula11` | [Ver Código](./aula011/) | `aula19` | [Ver Código](./aula019/) |
 
 ---
 
